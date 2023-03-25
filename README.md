@@ -7,3 +7,8 @@ Project of a Sport store:
 - Calculate sum price of items
 - Continue with purchases
 - Select store departments
+
+Technology employed : 
+- Asp.Net Core 3
+- Entity Frameworks with CRUD concept
+- MVC pattern
